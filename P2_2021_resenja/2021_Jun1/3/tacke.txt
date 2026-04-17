@@ -1,0 +1,6 @@
+5
+3 3.14 xyz
+1 -1.5 aabbcc
+3 3.14 abcabc
+1 -2 aaaaa
+2 -2 aaaaa

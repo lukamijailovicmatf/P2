@@ -1,0 +1,3 @@
+2
+elipsa ljubicasta 100
+romb crvena 10
